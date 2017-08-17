@@ -15,6 +15,8 @@
 ### If you're a YOURChain community member, please join the #urcollege channel today! URCollege are currently hiring for positions across the board, we need your help today!
 
 
+![Image](/lambo.png) 
+
 # FAQ
 ### Why did we choose YOURChain?
 YOURChain is known in the crypto world for their amazing community, high energy and most of all for making RChain YOURChain again. The ideal platform enabling projects to not only come into fruition but to expand to the masses like you've never seen.
