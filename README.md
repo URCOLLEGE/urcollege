@@ -31,4 +31,4 @@ We're approaching YOURChain management to seek approval for our Dapp on the YOUR
 
 
 # Team
-Join the URCollege team today, we need you in our team!
+Join the URCollege team today, we need you in the team!
