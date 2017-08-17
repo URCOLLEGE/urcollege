@@ -1,4 +1,4 @@
-![Image](/urcollege.png)
+![Image](/urcollege1.png)
 
 [Home](https://urcollege.github.io/urcollege/) 
 
