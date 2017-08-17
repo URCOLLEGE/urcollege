@@ -10,5 +10,5 @@
 
 - Every had a college extort you for lunch money?
 - Had you college fees increased more times than your crypto gains?
-- Join urcollege today and start earning enough profits to pay the bills....
+- Join URCollege today and start earning enough profits to pay the bills....
 
