@@ -2,9 +2,8 @@
 
 [Home](https://urcollege.github.io/urcollege/)   |   [Git](https://github.com/URCOLLEGE/urcollege)
 
-## Welcome to URCollege
+# Welcome to URCollege
 
-# We're making college affordable again.
 ## Join the force today and help bring this Dapp to reality [Discord](https://discord.gg/uFf7dx2) #urcollege.
 ### URCollege is a dapp available on the fastest growing crypto platform YOURChain, making rchain yours again!
 
