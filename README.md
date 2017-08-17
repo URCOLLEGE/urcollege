@@ -14,6 +14,8 @@
 
 [Link](https://github.com/URCOLLEGE/urcollege/edit/master/README.md) and ![Image](https://github.com/URCOLLEGE/urcollege/blob/master/urcollege.png)
 ```
+![GitHub Logo](/urcollege.png)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
