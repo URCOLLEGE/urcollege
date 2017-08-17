@@ -1,8 +1,8 @@
 ## Welcome to URCollege
 
-# Header 1
-## Header 2
-### Header 3
+# We're making college affordable again.
+## Register today to receive your freedom airdrop.
+
 
 - Bulleted
 - List
@@ -12,7 +12,7 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://github.com/URCOLLEGE/urcollege/edit/master/README.md) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
