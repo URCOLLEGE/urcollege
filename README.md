@@ -13,12 +13,12 @@
 - Join URCollege today and start earning enough profits to pay the bills....
 
 
-### If you're a YOURChain community memeber, please join the #urcollege channel today! URCollege are currently hiring for positions across the board, we need your help today!
+### If you're a YOURChain community member, please join the #urcollege channel today! URCollege are currently hiring for positions across the board, we need your help today!
 
 
 # FAQ
 ### Why did we choose YOURChain?
-YOURChain is known in the crypto world for their amazing community and high energy. The ideal platform to enable projects to not only come into fruition but to expand to the masses like you've never seen.
+YOURChain is known in the crypto world for their amazing community, high energy and most of all for making RChain YOURChain again. The ideal platform enabling projects to not only come into fruition but to expand to the masses like you've never seen.
 
 ### What programming language will URCollege be developed in?
 Great question! URLang is the current standard for Dapp creation, a language of the YOURChain project intended for developers on the platform. With the sybil resistant technology the URLang smart contracts provide, you can trust your college fees will be paid off, not ripped off by bad actors trying to fund a haircut.
@@ -26,4 +26,4 @@ Great question! URLang is the current standard for Dapp creation, a language of 
 # Blog
 
 ### August 17th 2017
-We're approaching YOURChain management to seek approval for our Dapp on the YOURChain network. Only the highest quality, highest energy Dapps and projects get accepted. Please wish us luck and with the support from the community and management we can get the tick of approval and start funding your college fees.
+We're approaching YOURChain management to seek approval for our Dapp on the YOURChain network. Only the highest quality, highest energy Dapps and projects get accepted. Please wish us luck and show your support in the [Discord](https://discord.gg/uFf7dx2) #urcollege channel. Once the tick of approval has been received we will compile the high energy team to rocket this Dapp to number #1 in the YOURChain Dapp market.
