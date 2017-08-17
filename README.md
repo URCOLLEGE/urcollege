@@ -5,7 +5,7 @@
 ## Welcome to URCollege
 
 # We're making college affordable again.
-## Join the force today and help bring this Dapp to reality https://discord.gg/uFf7dx2 #urcollege.
+## Join the force today and help bring this Dapp to reality [Discord](https://discord.gg/uFf7dx2) #urcollege.
 ### URCollege is a dapp available on the fastest growing crypto platform YOURChain, making rchain yours again!
 
 - Every had a college extort you for lunch money?
@@ -22,8 +22,6 @@ YOURChain is known in the crypto world for their amazing community, the high ene
 
 ### What programming language will URCollege be developed in?
 Great question! URLang is the current standard for Dapp creation, the language of the YOURChain project intended for developers on the platform. With the sybil resistant technology the URCOllege smart contracts provide, you can trust your college fees will be paid off, not ripped off by bad actors trying to fund a haircut.
-
-
 
 # Blog
 
