@@ -15,7 +15,7 @@
 ### If you're a YOURChain community member, please join the #urcollege channel today! URCollege are currently hiring for positions across the board, we need your help today!
 
 
-![Image](/lambo.png) 
+![Image](/lambo1.png) 
 
 # FAQ
 ### Why did we choose YOURChain?
