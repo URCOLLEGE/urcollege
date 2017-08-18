@@ -1,5 +1,3 @@
-![Image](/urcollege1.png) 
-
 [Home](https://urcollege.github.io/urcollege/)   |   [Git](https://github.com/URCOLLEGE/urcollege)
 
 # Welcome to URCollege
