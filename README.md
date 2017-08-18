@@ -25,12 +25,13 @@ Great question! URLang is the current standard for Dapp creation, a language of 
 # Team
 Join the URCollege team today, we need you in the team!
 
-|TEAM                          |
-|:-----------------------------|
-| ![Image](/captainamerica.png)|
-| ![Image](/captainamerica.png)|
-| ![Image](/captainamerica.png)|
-| ![Image](/captainamerica.png)|
+|TEAM                           |
+|:----------------------------- |
+| ![Image](/ratchef.png)        |
+| ![Image](/mrdark.png)         |
+| ![Image](/samhughes.png)      |
+| ![Image](/dovev.png)          |
+| ![Image](/captainamerica.png) |
 
 # Blog
 
