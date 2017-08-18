@@ -13,8 +13,9 @@
   <body>
     <section class="page-header">
       <img src="/urcollege/urcollege1.png" alt="URCollege" width="799" height="274">
-      <p>" "</p>
+      <p></p>
       {% if site.github.is_project_page %}
+        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
       {% if site.show_downloads %}
