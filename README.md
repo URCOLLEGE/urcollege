@@ -9,11 +9,15 @@
 - Had you college fees increased more times than your crypto gains?
 - Join URCollege today and start earning enough profits to pay the bills....
 
+### If you're a YOURChain community member, please join the #urcollege channel today! 
 
-### If you're a YOURChain community member, please join the #urcollege channel today! URCollege are currently hiring for positions across the board, we need your help today!
+# Team
+Join the URCollege team today, we need you in the team!
 
+|TEAM|![Image](/ratchef_.png)|![Image](/captainamerica_.png)|
+|:----------------------------- |:-----------------------------|:-----------------------------|
+| ![Image](/mrdark_.png)|![Image](/samhughes_.png)| ![Image](/dovev_.png)|
 
-![Image](/lambo1.png) 
 
 # FAQ
 ### Why did we choose YOURChain?
@@ -22,18 +26,11 @@ YOURChain is known in the crypto world for their amazing community, high energy 
 ### What programming language will URCollege be developed in?
 Great question! URLang is the current standard for Dapp creation, a language of the YOURChain project intended for developers on the platform. With the sybil resistant technology the URLang smart contracts provide, you can trust your college fees will be paid off, not ripped off by bad actors trying to fund a haircut.
 
-# Team
-Join the URCollege team today, we need you in the team!
 
-|TEAM|
-|:----------------------------- |:-----------------------------|
-| ![Image](/ratchef_.png)|![Image](/captainamerica_.png)|
-| ![Image](/mrdark_.png)|![Image](/samhughes_.png)|
-| ![Image](/dovev_.png)|
-
-
+### URCollege are currently hiring for positions across the board, we need your help today!
 
 # Blog
+![Image](/lambo1.png) 
 
 ### August 18th 2017
 Received approval from the YOURChain CEO for dapp market listing, also received a lot of community support and interest in joining the team. Congrats everyone, this project will be a huge success!
