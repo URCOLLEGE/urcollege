@@ -43,6 +43,5 @@ We're approaching YOURChain management to seek approval for our Dapp on the YOUR
 
 
 <p></p>
-<div id="particles-js"></div>
-<script src="/_particles/particles.js"></script>
+
 [Home](https://urcollege.github.io/urcollege/)   |   [Git](https://github.com/URCOLLEGE/urcollege)
