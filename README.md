@@ -11,9 +11,9 @@
 
 ### If you're a YOURChain community member, please join the #urcollege channel today! 
 
-|TEAM                           | ![Image](/ratchef_.png)        |![Image](/captainamerica_.png) |
+|TEAM                           | ![Image](/_ratchef.png)        |![Image](/_captainamerica.png) |
 |:------------------------------|:------------------------------|:------------------------------|
-|![Image](/mrdark_.png)         |![Image](/samhughes_.png)      |![Image](/dovev_.png)          |
+|![Image](/_mrdark.png)         |![Image](/_samhughes.png)      |![Image](/_dovev.png)          |
 
 
 # FAQ
