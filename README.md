@@ -44,5 +44,4 @@ We're approaching YOURChain management to seek approval for our Dapp on the YOUR
 <p></p>
 
 
-|:----------------------------- |:----------------------------- |
-| ![Home](https://urcollege.github.io/urcollege/)|![Git](https://github.com/URCOLLEGE/urcollege)|
+|![Home](https://urcollege.github.io/urcollege/)|![Git](https://github.com/URCOLLEGE/urcollege)|
