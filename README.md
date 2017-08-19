@@ -11,9 +11,6 @@
 
 ### If you're a YOURChain community member, please join the #urcollege channel today! 
 
-# Team
-Join the URCollege team today, we need you in the team!
-
 |TEAM|![Image](/ratchef_.png)|![Image](/captainamerica_.png)|
 |:----------------------------- |:-----------------------------|:-----------------------------|
 | ![Image](/mrdark_.png)|![Image](/samhughes_.png)| ![Image](/dovev_.png)|
@@ -27,7 +24,7 @@ YOURChain is known in the crypto world for their amazing community, high energy 
 Great question! URLang is the current standard for Dapp creation, a language of the YOURChain project intended for developers on the platform. With the sybil resistant technology the URLang smart contracts provide, you can trust your college fees will be paid off, not ripped off by bad actors trying to fund a haircut.
 
 
-### URCollege are currently hiring for positions across the board, we need your help today!
+### URCollege are currently hiring, if you're high energy please contact us today!
 
 # Blog
 ![Image](/lambo1.png) 
