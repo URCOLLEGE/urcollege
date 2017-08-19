@@ -43,5 +43,4 @@ We're approaching YOURChain management to seek approval for our Dapp on the YOUR
 
 <p></p>
 
-{{ site.github.repository_url }}
-|![Home](https://urcollege.github.io/urcollege/)|![Git]({{ site.github.repository_url }})|
+
