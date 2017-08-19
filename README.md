@@ -41,4 +41,4 @@ Received approval from the YOURChain CEO for dapp market listing, also received 
 ### August 17th 2017
 We're approaching YOURChain management to seek approval for our Dapp on the YOURChain network. Only the highest quality, highest energy Dapps and projects get accepted. Please wish us luck and show your support in the [Discord](https://discord.gg/uFf7dx2) #urcollege channel. Once the tick of approval has been received we will compile the high energy team to rocket this Dapp to number #1 in the YOURChain Dapp market.
 
-
+<p></p>
