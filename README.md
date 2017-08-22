@@ -5,7 +5,7 @@
 ## Join the force today and help bring this Dapp to reality [Discord](https://discord.gg/uFf7dx2) #urcollege.
 ### URCollege is a dapp available on the fastest growing crypto platform YOURChain, making rchain yours again!
 
-- Every had a college extort you for lunch money?
+- Ever had a college extort you for lunch money?
 - Had you college fees increased more times than your crypto gains?
 - Join URCollege today and start earning enough profits to pay the bills....
 
